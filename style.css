@@ -1,0 +1,15 @@
+body{
+    background-color:antiquewhite;
+    text-align: center;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p{
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+}
